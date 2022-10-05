@@ -1,1 +1,1 @@
-i am a student in the alx full stack software engineering
+0x00 shell basics
