@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
-#printing text out to the screem 10 times
-for i in {1..10}
-do 
-	echo "Best School"
+# using while loop to print text 10 times
+
+i=0
+while [ $i -lt 10 ]
+do
+    echo "Best School"
+    (( i++ ))
 done
